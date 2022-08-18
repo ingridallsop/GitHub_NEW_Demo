@@ -2,5 +2,6 @@
   "sample_id_1": "Hello24",
   "sample_id_2": "How are you?",
   "sample_id_3": "Bye",
-  "sample_id_4": "My new string, added 08/01/22"
+  "sample_id_4": "My new string, added 08/01/22",
+  "sample_id_5": "This is a new feature, added 08/18/22"
 }
